@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811602715553",
+    "project_id": "expiry-remainder-7c551",
+    "storage_bucket": "expiry-remainder-7c551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811602715553:android:02003398e37423f21ca1e0",
+        "android_client_info": {
+          "package_name": "com.example.expiry_remainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811602715553-g2nm3kctmtst156esn1rnh758am85f6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWc6vVrdc9PlYewOCioRn3d62J6_MXeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811602715553-g2nm3kctmtst156esn1rnh758am85f6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

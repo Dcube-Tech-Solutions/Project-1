@@ -1,11 +1,11 @@
-package com.example.expiry_remainder.ui.notifications
+package com.example.expiry_remainder_testapp
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.expiry_remainder.databinding.FragmentHistoryBinding
+import com.example.expiry_remainder_testapp.databinding.FragmentHistoryBinding
 
 
 class HistoryFragment : Fragment() {

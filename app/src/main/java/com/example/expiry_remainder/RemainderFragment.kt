@@ -1,4 +1,4 @@
-package com.example.expiry_remainder.ui.dashboard
+package com.example.expiry_remainder_testapp
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,8 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.expiry_remainder.databinding.FragmentDashboardBinding
-import com.example.expiry_remainder.databinding.FragmentRemainderBinding
+import com.example.expiry_remainder_testapp.databinding.FragmentRemainderBinding
 
 class RemainderFragment : Fragment() {
 

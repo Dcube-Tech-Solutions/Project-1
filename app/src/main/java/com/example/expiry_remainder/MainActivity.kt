@@ -1,4 +1,4 @@
-package com.example.expiry_remainder
+package com.example.expiry_remainder_testapp
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.expiry_remainder.databinding.ActivityMainBinding
+import com.example.expiry_remainder_testapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
